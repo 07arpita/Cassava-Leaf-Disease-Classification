@@ -22,6 +22,11 @@ By applying **Convolutional Neural Networks (CNNs)**, this system serves as a sc
   <img src="outputs/image size distribution.png" width="60%" alt="Confusion Matrix" />
 </p>
 
+
+<p align="center">
+  <img src="outputs/accuracy.png" width="80%" alt="Model Training Curves" />
+</p>
+
 ---
 
 ##  Technical Highlights
