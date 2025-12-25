@@ -18,7 +18,7 @@ By applying **Convolutional Neural Networks (CNNs)**, this system serves as a sc
   <img src="outputs/class distribution.png" width="80%" alt="Model Training Curves" />
 </p>
 
-
+<p align="center">
   <img src="outputs/image size distribution.png" width="60%" alt="Confusion Matrix" />
 </p>
 
