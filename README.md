@@ -38,7 +38,6 @@ By applying **Convolutional Neural Networks (CNNs)**, this system serves as a sc
 ### 🚀 Challenges Overcome
 * **Class Imbalance:** Handled datasets where certain diseases were more prevalent than others to ensure the model didn't become biased.
 * **Feature Similarity:** Fine-tuned the model to distinguish between subtle brown streaks and bacterial spots which look similar to the naked eye.
-
 ---
 (outputs/class distribution.png)
 (outputs/image size distribution.png)
