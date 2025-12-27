@@ -12,6 +12,7 @@ By applying **Convolutional Neural Networks (CNNs)**, this system serves as a sc
 ## 📂 Dataset
 
 The dataset used is the Cassava Leaf Disease Classification Dataset from Kaggle.
+
 Classes:
 
 1.Cassava Bacterial Blight (CBB)
