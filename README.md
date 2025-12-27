@@ -9,26 +9,6 @@ Cassava is a staple food for millions, but viral diseases can devastate entire h
 By applying **Convolutional Neural Networks (CNNs)**, this system serves as a scalable solution for early disease detection, reducing the manual labor of agricultural inspection.
 
 ---
-
-## 📊 Model Performance & Visualization
-*Here are the results captured during the model training and evaluation phase:*
-
-
-<p align="center">
-  <img src="outputs/class distribution.png" width="80%" alt="Model Training Curves" />
-</p>
-
-<p align="center">
-  <img src="outputs/image size distribution.png" width="60%" alt="Confusion Matrix" />
-</p>
-
-
-<p align="center">
-  <img src="outputs/accuracy.png" width="80%" alt="Model Training Curves" />
-</p>
-
----
-
 📂 Dataset
 The dataset used is the Cassava Leaf Disease Classification Dataset from Kaggle.
 
@@ -54,6 +34,29 @@ MaxPooling layers to reduce dimensionality
 Dropout layers to prevent overfitting
 Fully connected dense layers for classification
 The model is trained using the Adam optimizer and categorical cross-entropy loss.
+
+
+## 📊 Model Performance & Visualization
+*Here are the results captured during the model training and evaluation phase:*
+
+
+<p align="center">
+  <img src="outputs/class distribution.png" width="80%" alt="Model Training Curves" />
+</p>
+
+<p align="center">
+  <img src="outputs/image size distribution.png" width="60%" alt="Confusion Matrix" />
+</p>
+
+
+<p align="center">
+  <img src="outputs/accuracy.png" width="80%" alt="Model Training Curves" />
+</p>
+
+---
+
+
+
 
 ##  Technical Highlights
 ### The Pipeline
