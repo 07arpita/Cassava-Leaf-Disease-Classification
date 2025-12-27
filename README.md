@@ -15,17 +15,25 @@ The dataset used is the Cassava Leaf Disease Classification Dataset from Kaggle.
 
 Classes:
 *Cassava Bacterial Blight (CBB)
+
 *Cassava Brown Streak Disease (CBSD)
+
 *Cassava Green Mottle (CGM)
+
 *Cassava Mosaic Disease (CMD)
+
 *Healthy
 
 ## ⚙️ Project Workflow
 
 *Data loading and preprocessing
+
 *Image resizing and normalization
+
 *CNN model building
+
 *Model training and validation
+
 *Performance evaluation
 
 ## 🧠 Model Architecture
@@ -33,9 +41,13 @@ Classes:
 The model uses a Convolutional Neural Network (CNN) consisting of:
 
 *Convolution layers for feature extraction
+
 *MaxPooling layers to reduce dimensionality
+
 *Dropout layers to prevent overfitting
+
 *Fully connected dense layers for classification
+
 *The model is trained using the Adam optimizer and categorical cross-entropy loss.
 
 
