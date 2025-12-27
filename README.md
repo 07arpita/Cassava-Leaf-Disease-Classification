@@ -9,7 +9,7 @@ Cassava is a staple food for millions, but viral diseases can devastate entire h
 By applying **Convolutional Neural Networks (CNNs)**, this system serves as a scalable solution for early disease detection, reducing the manual labor of agricultural inspection.
 
 ---
-📂 Dataset
+## 📂 Dataset
 
 The dataset used is the Cassava Leaf Disease Classification Dataset from Kaggle.
 
@@ -20,7 +20,7 @@ Cassava Green Mottle (CGM)
 Cassava Mosaic Disease (CMD)
 Healthy
 
-⚙️ Project Workflow
+## ⚙️ Project Workflow
 
 Data loading and preprocessing
 Image resizing and normalization
@@ -28,7 +28,7 @@ CNN model building
 Model training and validation
 Performance evaluation
 
-🧠 Model Architecture
+## 🧠 Model Architecture
 
 The model uses a Convolutional Neural Network (CNN) consisting of:
 
@@ -57,9 +57,6 @@ The model is trained using the Adam optimizer and categorical cross-entropy loss
 </p>
 
 ---
-
-
-
 
 ##  Technical Highlights
 ### The Pipeline
