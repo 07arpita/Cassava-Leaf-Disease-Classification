@@ -31,11 +31,11 @@ Classes:
 
 2.Image resizing and normalization
 
-*CNN model building
+3.CNN model building
 
-3.Model training and validation
+4.Model training and validation
 
-4.Performance evaluation
+5.Performance evaluation
 
 ## 🧠 Model Architecture
 
