@@ -22,7 +22,7 @@ Classes:
 
 4.Cassava Mosaic Disease (CMD)
 
-*Healthy
+5.Healthy
 
 ## ⚙️ Project Workflow
 
