@@ -10,6 +10,7 @@ By applying **Convolutional Neural Networks (CNNs)**, this system serves as a sc
 
 ---
 📂 Dataset
+
 The dataset used is the Cassava Leaf Disease Classification Dataset from Kaggle.
 
 Classes:
@@ -20,6 +21,7 @@ Cassava Mosaic Disease (CMD)
 Healthy
 
 ⚙️ Project Workflow
+
 Data loading and preprocessing
 Image resizing and normalization
 CNN model building
@@ -27,6 +29,7 @@ Model training and validation
 Performance evaluation
 
 🧠 Model Architecture
+
 The model uses a Convolutional Neural Network (CNN) consisting of:
 
 Convolution layers for feature extraction
