@@ -14,41 +14,41 @@ By applying **Convolutional Neural Networks (CNNs)**, this system serves as a sc
 The dataset used is the Cassava Leaf Disease Classification Dataset from Kaggle.
 
 Classes:
-*Cassava Bacterial Blight (CBB)
+1.Cassava Bacterial Blight (CBB)
 
-*Cassava Brown Streak Disease (CBSD)
+2.Cassava Brown Streak Disease (CBSD)
 
-*Cassava Green Mottle (CGM)
+3.Cassava Green Mottle (CGM)
 
-*Cassava Mosaic Disease (CMD)
+4.Cassava Mosaic Disease (CMD)
 
 *Healthy
 
 ## ⚙️ Project Workflow
 
-*Data loading and preprocessing
+1.Data loading and preprocessing
 
-*Image resizing and normalization
+2.Image resizing and normalization
 
 *CNN model building
 
-*Model training and validation
+3.Model training and validation
 
-*Performance evaluation
+4.Performance evaluation
 
 ## 🧠 Model Architecture
 
 The model uses a Convolutional Neural Network (CNN) consisting of:
 
-*Convolution layers for feature extraction
+1.Convolution layers for feature extraction
 
-*MaxPooling layers to reduce dimensionality
+2.MaxPooling layers to reduce dimensionality
 
-*Dropout layers to prevent overfitting
+3.Dropout layers to prevent overfitting
 
-*Fully connected dense layers for classification
+4.Fully connected dense layers for classification
 
-*The model is trained using the Adam optimizer and categorical cross-entropy loss.
+5.The model is trained using the Adam optimizer and categorical cross-entropy loss.
 
 
 ## 📊 Model Performance & Visualization
